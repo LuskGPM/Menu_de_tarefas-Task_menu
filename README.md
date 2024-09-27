@@ -6,7 +6,7 @@ Este é um **Gerenciador de Tarefas** simples desenvolvido em Python. Ele permit
 ## Funcionalidades
 
 - Adicionar novas tarefas à lista de pendentes.
-- Remover tarefas da lista de pendentes por nome ou número.
+- Remover tarefas da lista de pendentes por número.
 - Listar todas as tarefas pendentes.
 - Marcar tarefas como concluídas (mover da lista de pendentes para a lista de concluídas).
 - Visualizar todas as tarefas concluídas.
@@ -82,7 +82,7 @@ This is a simple **Task Manager** developed in Python. It allows users to manage
 ## Features
 
 - Add new tasks to the pending list.
-- Remove tasks from the pending list by name or number.
+- Remove tasks from the pending list by number.
 - List all pending tasks.
 - Mark tasks as completed (move from the pending list to the completed list).
 - View all completed tasks.
